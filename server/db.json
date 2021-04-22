@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Joseph",
+      "email": "joseph@gmail.com",
+      "contact": "9875643212"
+    },
+    {
+      "id": 2,
+      "name": "Aenni",
+      "email": "aenni@gmail.com",
+      "contact": "7685940321"
+    },
+    {
+      "id": 3,
+      "name": "Bob",
+      "email": "Bob@yahoo.co.in",
+      "contact": "9806705403"
+    },
+    {
+      "id": 4,
+      "name": "james",
+      "email": "james@test.com",
+      "contact": "6547389024"
+    },
+    {
+      "id": 5,
+      "name": "Raffel",
+      "email": "riffel@mail.com",
+      "contact": "5436908721"
+    },
+    {
+      "name": "Joseph",
+      "contact": "9875643212",
+      "email": "joseph@gmail.com",
+      "id": 6
+    }
+  ]
+}
