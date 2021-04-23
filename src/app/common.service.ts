@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class CommonService {
-  httpUrl = "http://localhost:3000/db";
+  httpUrl = "https://my-json-server.typicode.com/rinkisahu/mydata/users/";
   constructor(private _http:HttpClient) { }
   createUser(user){
     return this._http.post(this.httpUrl,user);
