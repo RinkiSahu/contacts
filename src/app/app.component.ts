@@ -47,7 +47,7 @@ editUser(user){
 }
 deleteUser(user){
   this.commonService.deleteUser(user).subscribe(() => {
-    console.log(this.getLatestUser())
+    //console.log(this.getLatestUser())
     } )
 }
 
